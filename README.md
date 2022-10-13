@@ -6,8 +6,4 @@
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: mirellaayumi@gmail.com
 
-<div>
-<a href="https://github.com/MiyakawaMirella">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyakawaMirella&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiyakawaMirella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Miyakawa, Mirella's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyakawaMirella&show_icons=true&theme=tokyonight)
