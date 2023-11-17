@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile!
-## My name is Mirella Miyakawa, I'm 16 years old and a brazilian programming student of <strong>GerminaTECH</strong> 🙃
+## My name is Mirella Miyakawa, I'm 17 years old and a brazilian programming student of <strong>GerminaTECH</strong> 🙃
 
-- 🔭 I’m currently working on PicPay in the projects area
-- 🌱 I’m currently learning PostgreSQL, JavaScript, HTML, CSS, Python, Java and MongoDB
+- 🔭 I’m currently working on PicPay in the IOS mobile area
+- 🌱 I’m currently learning PostgreSQL, JavaScript, React, Python, Java, Swift and MongoDB
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: mirellaayumi@gmail.com || @mirellamiyakawa
 
